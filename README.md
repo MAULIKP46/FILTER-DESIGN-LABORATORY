@@ -90,6 +90,7 @@ Simulink integration
 Active filter circuit generation
 
 🎥 Demo & Resources
+
 App link: https://drive.google.com/file/d/1z0F0vE6ahZJTWB0_SBZ_kWSfAe6L4iPe/view?usp=drive_link 
 
 Video link: https://drive.google.com/file/d/1O8HJfAi91hodeC9-8xo_Z5-cr-faOgPZ/view?usp=drive_link
@@ -98,14 +99,3 @@ Video link: https://drive.google.com/file/d/1O8HJfAi91hodeC9-8xo_Z5-cr-faOgPZ/vi
 
 Maulik Parasramka
 BS Electronics, IIT Madras
-
-⭐ Contribute / Support
-
-If you found this useful:
-
-⭐ Star the repo
-🍴 Fork it
-🛠️ Improve it
-📜 License
-
-This project is for educational and academic purposes.
